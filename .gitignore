@@ -1,0 +1,4 @@
+/build
+/dist
+/py_echo.egg-info
+/setup.py
